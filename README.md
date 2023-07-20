@@ -1,2 +1,2 @@
 # Csc327_assignment
-Web development with html  &amp; css
+Web development with html  & css only school assignment
